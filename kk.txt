@@ -1,3 +1,0 @@
-# Hola
-Esto es un nuevo texto **MarkDown**
-
